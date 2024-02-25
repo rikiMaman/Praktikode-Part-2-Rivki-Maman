@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\אסתר\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\רבקי -תכנות\\שנה יד\\פרקטיקוד\\פרויקט 2\\htmlSerializer\\htmlSerializer\\htmlSerializer.csproj",
+      "projectName": "htmlSerializer",
+      "projectPath": "C:\\רבקי -תכנות\\שנה יד\\פרקטיקוד\\פרויקט 2\\htmlSerializer\\htmlSerializer\\htmlSerializer.csproj",
+      "packagesPath": "C:\\Users\\אסתר\\.nuget\\packages\\",
+      "outputPath": "C:\\רבקי -תכנות\\שנה יד\\פרקטיקוד\\פרויקט 2\\htmlSerializer\\htmlSerializer\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
